@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# IDEs
+.idea/
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Whisper temp files
+*.wav
+
+# MacOS
+*.log
+
+# Pip
+pip-log.txt
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Test cache
+.pytest_cache/
+
+# VS Code Python
+*.code-workspace
