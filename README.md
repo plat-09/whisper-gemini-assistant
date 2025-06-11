@@ -9,16 +9,16 @@
 
 1. Клонируй репозиторий:
 
-```bash
+
 git clone https://github.com/plat-09/whisper-gemini-assistant.git
 cd whisper-gemini-assistant
 
-	2.	Создай и активируй виртуальное окружение:
+2.	Создай и активируй виртуальное окружение:
 
 python3 -m venv venv
 source venv/bin/activate
 
-	3.	Установи зависимости:
+3.	Установи зависимости:
 
 pip install -r requirements.txt
 
